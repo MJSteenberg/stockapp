@@ -1,7 +1,6 @@
 import yfinance as yf
 import streamlit as st
 import pandas as pd
-from get_all_tickers import get_tickers as gt
 
 tick = pd.read_csv("tickers.csv", names='t')
 list_of_tickers = list(tick['t'])
