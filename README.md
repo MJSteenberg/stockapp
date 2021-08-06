@@ -1,4 +1,4 @@
-# stockapp
+# Stockapp by Blitz
 Deploying stock app to Heroku
 
 The deployed web app is live at: 
